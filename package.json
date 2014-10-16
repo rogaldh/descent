@@ -1,7 +1,7 @@
 {
   "name": "descent",
   "namespace": "Descent",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "object's inheritance lib",
   "directories": {
     "lib": "lib"
